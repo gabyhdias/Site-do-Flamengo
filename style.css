@@ -5,7 +5,8 @@
 #navbar {
     background-color: rgb(182, 1, 1);
     color:white;
-
     display: flex;
     justify-content: space-between;
+    padding: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
