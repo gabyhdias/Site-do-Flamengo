@@ -1,11 +1,36 @@
-#escudo {
-    width: 120;;
+Body{
+    margin: 0;
+padding: 0;
+background-color: rgb(241, 78, 78);
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+#escudo {
+    width: 100px;
+    height: 100px;
+} 
 #navbar {
-    background-color: rgb(182, 1, 1);
-    color:white;
+    background-color: rgb(114, 1, 1);
+    color: aliceblue;
 
     display: flex;
     justify-content: space-between;
+    align-items: center;
+
+    padding: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#noticias {
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    padding: 6px;
+}
+.noticia {
+    background-color: rgb(129, 2, 2);
+    color: rgb(255, 255, 255);
+    border: 4px rgb(0, 0, 0):
+}
+.img_noticia {
+    width: 200;
 }
