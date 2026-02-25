@@ -35,3 +35,12 @@ body{
    color: rgb(0, 0, 0);
    border: 6px solid rgb(100, 0, 0);
 }
+
+.urubu {
+    position: fixed;
+    bottom: 20px;  
+    right: 20px;   
+    width: 200px; 
+    height: auto; 
+    z-index: 1000;
+}
