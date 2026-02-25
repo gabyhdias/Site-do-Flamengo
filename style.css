@@ -8,14 +8,6 @@ body{
 
 #escudo {
     width: 120;;
-=======
-Body{
-    margin: 0;
-padding: 0;
-background-color: rgb(241, 78, 78);
-font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
->>>>>>> 38da840f181f9e07625bd8f2f819c808174a24cd
-}
 
 #escudo {
     width: 100px;
@@ -44,23 +36,3 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: rgb(201, 208, 214);
    color: rgb(0, 0, 0);
    border: 6px solid rgb(100, 0, 0);
-=======
-
-    padding: 20px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-#noticias {
-    display: flex;
-    text-align: center;
-    justify-content: space-around;
-    padding: 6px;
-}
-.noticia {
-    background-color: rgb(129, 2, 2);
-    color: rgb(255, 255, 255);
-    border: 4px rgb(0, 0, 0):
-}
-.img_noticia {
-    width: 200;
->>>>>>> 38da840f181f9e07625bd8f2f819c808174a24cd
-}
